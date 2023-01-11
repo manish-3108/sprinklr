@@ -1,0 +1,25 @@
+{
+  "name": "drupal/sprinklr",
+  "type": "drupal-module",
+  "description": "Provides integration for sprinklr chatbot",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev",
+  "homepage": "https://www.drupal.org/project/sprinklr",
+  "authors": [
+    {
+      "name": "Manish Sharma",
+      "homepage": "https://www.drupal.org/u/manish-31",
+      "role": "Maintainer"
+    },
+    {
+      "name": "Rohit Joshi",
+      "homepage": "https://www.drupal.org/u/joshirohit100",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/sprinklr",
+    "source": "http://cgit.drupalcode.org/sprinklr"
+  }
+}

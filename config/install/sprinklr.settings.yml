@@ -1,0 +1,10 @@
+# Config to enable/disable sprinklr chatbot feature.
+sprinklr_enabled: true
+# List of URLs for sprinklr chatbot integration.
+allowed_urls: ''
+# Config to negate the sprinklr allowed urls condition.
+urls_negate: 0
+# List of Content types for sprinklr chatbot integration.
+allowed_content_types: []
+# App id required to connect with sprinklr English version.
+app_id: ''

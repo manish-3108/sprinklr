@@ -1,0 +1,9 @@
+services:
+  sprinklr.helper:
+    class: Drupal\sprinklr\Helper\SprinklrHelper
+    arguments:
+      - '@config.factory'
+      - '@path.current'
+      - '@path_alias.manager'
+      - '@path.matcher'
+      - '@current_route_match'
